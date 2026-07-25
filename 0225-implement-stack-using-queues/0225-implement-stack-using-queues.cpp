@@ -10,8 +10,7 @@ public:
     }
     
     int pop() {
-        int n=q1.size();
-        for(int i=0;i<n-1;i++){
+        for(int i=0;i<q1.size()-1;i++){
             int x=q1.front();
             q1.pop();
             q1.push(x);

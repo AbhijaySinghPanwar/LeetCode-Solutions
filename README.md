@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 ## Divide and Conquer

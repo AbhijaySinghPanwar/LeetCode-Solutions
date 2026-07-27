@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |

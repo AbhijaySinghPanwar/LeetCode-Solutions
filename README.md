@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## String
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Counting
 |  |
 | ------- |

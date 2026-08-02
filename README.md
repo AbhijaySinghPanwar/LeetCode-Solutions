@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

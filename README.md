@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |

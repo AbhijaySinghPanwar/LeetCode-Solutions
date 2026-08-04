@@ -10,9 +10,7 @@ public:
         priority_queue<pi, vector<pi>, greater<pi>> pq;
 
         for (auto x : mp) {
-            int ele = x.first;
-            int fre = x.second;
-            pq.push({fre, -ele});   // Store -ele to get larger value first for same frequency
+            pq.push({x.second, -x.first});   // Store -ele to get larger value first for same frequency
         }
 
         vector<int> ans;

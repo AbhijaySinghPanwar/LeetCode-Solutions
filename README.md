@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0706-design-hashmap](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Divide and Conquer
@@ -159,12 +162,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -200,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->

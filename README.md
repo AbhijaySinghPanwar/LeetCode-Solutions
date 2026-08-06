@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Simulation
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1402-reducing-dishes) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [1402-reducing-dishes](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1402-reducing-dishes) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Quickselect
 |  |
 | ------- |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1109-corporate-flight-bookings) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Pigeonhole Principle
 |  |

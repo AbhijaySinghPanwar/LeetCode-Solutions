@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Counting
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1109-corporate-flight-bookings) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Pigeonhole Principle
 |  |
 | ------- |

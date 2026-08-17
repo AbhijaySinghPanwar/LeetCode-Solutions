@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1314-matrix-block-sum](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-reducing-dishes](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1402-reducing-dishes) |
 | [1572-matrix-diagonal-sum](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Geometry
 |  |
 | ------- |

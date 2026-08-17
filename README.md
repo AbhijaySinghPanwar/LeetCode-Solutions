@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [1402-reducing-dishes](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |

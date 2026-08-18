@@ -23,7 +23,6 @@ public:
         }
         int len=j-i-1;
         maxlen=max(maxlen,len);
-        if(one==0) return maxlen;
         return maxlen;
     }
 };

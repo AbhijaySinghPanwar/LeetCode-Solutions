@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1695-maximum-erasure-value](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1695-maximum-erasure-value](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1695-maximum-erasure-value](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Geometry
 |  |

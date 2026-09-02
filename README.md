@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AbhijaySinghPanwar/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
